@@ -1,0 +1,3 @@
+截图为游戏切块思路
+直接把本目录放至xampp/hotdocs即可运行
+如果您的电脑没装xampp的话又想看运行效果的话可把js/script.js中游戏结束后table()方法换成tableLocalStorage()，然后浏览器直接打开index.html文件即可
